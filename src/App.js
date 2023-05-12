@@ -231,8 +231,8 @@ function App() {
     }))
   }
 
-  function cadastrarTime() {
-    setTimes([...times, {...novoTime, id: uuidv4}])
+  function cadastrarTime({ nome, cor }) {
+    setTimes([...times, { nome, cor, id: uuidv4() }])
   }
 
   return (

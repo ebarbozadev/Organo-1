@@ -52,7 +52,8 @@ const Formulario = ({aoCadastrar, times, cadastrarTime}) => {
                     aoAlterado={valor => setTime(valor)}/>
                 <Botao texto='Criar card' />
             </form>
-            <form className="formulario" onSubmit={(evento) => {
+            <form className="formulario"
+            onSubmit={(evento) => {
                 evento.preventDefault()
                 cadastrarTime({nome: nomeTime, cor: corTime})
             }}>
@@ -64,6 +65,7 @@ const Formulario = ({aoCadastrar, times, cadastrarTime}) => {
                     valor={nomeTime}
                     aoAlterado={valor => setNomeTime(valor)}/>
                 <CampoTexto
+                    type='color'
                     obrigatorio={true}
                     label='Cor' 
                     placeholder='Digite a cor do time'
