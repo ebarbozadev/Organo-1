@@ -12,14 +12,14 @@
 
 <hr>
 
-<img src="Alura-Fruta.gif" title="Gif mostrando o site">
+<img src="organo2.gif" title="Gif mostrando o site">
 
 <section id="sobre">
     <h2 style="font-size: 1.25rem;">Sobre</h2>
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/react-componentes-funcionam">React: Como os Componentes Funcionam</a> com <b>auxílio</b> do instrutor <b>Luiz Ribeiro</b>.</p>
     <p style="text-align: justify;">É um site de receitas saudáveis.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://organo1.ebarbozadev.vercel.app/">aqui</a>.</p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://organo2.ebarbozadev.vercel.app/">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
