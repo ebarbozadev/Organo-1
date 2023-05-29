@@ -29,7 +29,7 @@
         <li>Entender o que são dependências e como instalar novas dependências;</li>
         <li>Comparar como o React vê um componente, assim como seus props e states;</li>
         <li>Fazer mudanças no código, como criação de novas features e refatoração de código existente;</li>
-        <li>Saber o que é one-way data binding, e o que isto tem a ver com VirtualDOM (e por que o React é feito desta forma);</li>
+        <li>Saber o que é one-way data binding, e o que isto tem a ver com VirtualDOM (e por que o React é feito desta forma).</li>
     </ul>
 </section>
 
